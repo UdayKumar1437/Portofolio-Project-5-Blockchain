@@ -20,4 +20,4 @@ A simple Blockchain landing page created using `HTML` and `CSS`. This Project is
 - How to use CSS properties like background-position and background-size.
 - How to create buttons and add custom animations to it.
 
-## [ Live link]() of this project
+## [ Live link](https://blockchain-ineuron.netlify.app/ "blockchains") of this project
